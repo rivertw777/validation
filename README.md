@@ -16,3 +16,6 @@
 + Validator 분리
 
 + Bean Validation
+  + groups
+  + Form 전송 객체 분리
+  + HTTP 메시지터컨버터
