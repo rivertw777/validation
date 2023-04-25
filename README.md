@@ -16,3 +16,7 @@
 + Validator 분리
 
 + Bean Validation
+  + 스프링 적용
+  + groups
+  + Form 전송 객체 분리
+  + HTTP 메시지 컨버터
